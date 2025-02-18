@@ -21,6 +21,9 @@
   "files": [
     "dist"
   ],
+  "engines": {
+    "node": ">=18.x"
+  },
   "scripts": {
     "dev": "tsc --watch",
     "build": "tsc",
